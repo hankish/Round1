@@ -1,5 +1,5 @@
 FirstApp::Application.routes.draw do
-  # The priority is based upon order of creation:
+  # The priority is based upon order of creation: (change)
   # first created -> highest priority.
 
   # Sample of regular route:
